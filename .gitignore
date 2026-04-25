@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node / build (将来のために)
+node_modules/
+dist/
+build/
+
+# Log
+*.log
