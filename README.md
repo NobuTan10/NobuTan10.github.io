@@ -146,4 +146,4 @@ GitHub Pages は数十秒〜数分で自動で更新されます。
 ## 7. 連絡先
 
 Nobuhiro Tanno, M.D., Ph.D.
-gift.of.magi.2007@gmail.com
+nobuhiro.tanno.phd@gmail.com
